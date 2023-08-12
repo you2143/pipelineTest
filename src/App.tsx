@@ -56,7 +56,7 @@ const Summary: React.FC<SummaryProps> = props => {
         <span>名様</span>
       </div>
       <div className="total-amount">
-        <span>合計</span>
+        <span>合計test</span>
         <input type="text" className="total-amount" value={props.totalAmount} />
         <span>円</span>
       </div>
