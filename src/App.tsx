@@ -53,7 +53,7 @@ const Summary: React.FC<SummaryProps> = props => {
     <div>
       <div className="party">
         <input type="text" className="party" value={props.numOfPeople} />
-        <span>名様AAA</span>
+        <span>名様</span>
       </div>
       <div className="total-amount">
         <span>合計AAA</span>
